@@ -110,7 +110,7 @@ At this level the manager doesn't need to be aware of what is inside the pages
 ##### Tuple Oriented Layout
 Slotted Pages
 - Supports variable length tuples
-- Slot array at the beginning of the page (following the header) 
+- Slot array at the beginning of the page (following the header)
 - Each slot
 	- maps to the tuples' starting position offset within the page
 	- stores the length of the tuple that it maps to
@@ -159,7 +159,7 @@ Problems with slotted page design
 - Useless Disk I/O
 	- must bring in the entire page to update a single tuple in the page
 - Random disk I/O
-	- random layout could lead to updating a page per tuple 
+	- random layout could lead to updating a page per tuple
 
 
 
@@ -241,5 +241,5 @@ The dBMS stores metadata about databases in its internal catalogs
 - internal statistics
 Most databases store this info inside itself (as metadata tables -> INFORMATION_SCHEMA)
 - Wrap object abstraction around tuples
-- Specialized code for "bootstrapping" catalog tables 
+- Specialized code for "bootstrapping" catalog tables
 	- chicken before the egg, how to interact with these tables without knowing anything about the database itself?

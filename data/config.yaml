@@ -1,6 +1,6 @@
 name: Austin Mason
-enableToc: false
-openToc: false
+enableToc: true
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/astnmsn/obsqz/tree/main/content
