@@ -1,4 +1,4 @@
-baseURL = "https://astnmsn.github.io/obsqz/"
+baseURL = "https://astnmsn.github.io"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
