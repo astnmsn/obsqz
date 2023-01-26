@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: Austin Mason
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/astnmsn/obsqz/tree/main/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -21,9 +21,7 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 Quartz 3.3"
+  "obsqz notes"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/astnmsn
