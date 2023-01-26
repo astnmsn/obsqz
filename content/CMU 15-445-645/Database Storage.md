@@ -1,3 +1,6 @@
+---
+title: "Database Storage"
+---
 #### Dealing with the limits of hardware
 
 ![[Database Storage 2022-11-10 10.46.08.excalidraw]]
